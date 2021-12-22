@@ -5,6 +5,6 @@ Mon Discord : https://discord.gg/rSgUudxqnr
 
 - Version compatible avec TOUTE versions ESX
 - Débug des LOGS Discord
-- Unban License et non plus Sql ID
+- Unban License et non plus Pseudo Steam
 - Ban Offline License et non plus Sql ID
 - Débug du Ban Offline
